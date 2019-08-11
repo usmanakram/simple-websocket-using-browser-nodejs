@@ -9,4 +9,7 @@ Then:
 
 open http://localhost:8080 in the browser
 
-Refrence: https://javascript.info/websocket
+
+Refrence Links:
+  https://javascript.info/websocket
+  https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications
