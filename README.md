@@ -8,3 +8,5 @@ Then:
 ```node server.js```
 
 open http://localhost:8080 in the browser
+
+Refrence: https://javascript.info/websocket
