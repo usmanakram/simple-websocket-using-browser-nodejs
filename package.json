@@ -1,0 +1,23 @@
+{
+  "name": "websocket-using-browser-nodejs",
+  "version": "1.0.0",
+  "description": "Chat example using browser WebSocket API and Node.js WebSocket module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanakram/websocket-using-browser-nodejs.git"
+  },
+  "author": "Usman Akram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmanakram/websocket-using-browser-nodejs/issues"
+  },
+  "homepage": "https://github.com/usmanakram/websocket-using-browser-nodejs#readme",
+  "dependencies": {
+    "ws": "^7.1.2"
+  }
+}
